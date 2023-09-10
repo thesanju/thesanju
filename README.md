@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [auto-attendance](https://github.com/thesanju/face_recognition)
 
-- 👨‍💻 All of my projects are available at [sanjay.ninja](sanjay.ninja)
+- 👨‍💻 All of my projects are available at [sanjay.ninja](sanjay.ninja/projects)
 
 - 📝 I regularly write articles on [sanjay.email](sanjay.email)
 
